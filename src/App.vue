@@ -1,6 +1,6 @@
 <template>
-  <nav class="navbar navbar-dark bg-primary justify-content-between flex-nowrap flex-row">
-    <div class="container">
+  <nav class="navbar navbar-dark bg-dark justify-content-between flex-nowrap flex-row sticky-top py-3">
+    <div class="container fw-bold">
       <router-link to="/" class="navbar-brand float-left">Vue-basic-crud</router-link>
       <ul class="nav navbar-nav flex-row float-right">
         <li class="nav-item">
